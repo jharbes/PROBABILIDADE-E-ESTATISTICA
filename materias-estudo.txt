@@ -1,0 +1,5 @@
+distribuicao normal
+distribuicao de poisson
+intervalo de confianca
+distribuicao binomial
+
